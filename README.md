@@ -17,20 +17,26 @@ The REST API will be available at localhost:3000.<br/>
 ## API requests using Postman 
 
 a. Create User
+
 ![Alt text](./screenshots/create.jpeg)
 
 b. Show all users
+
 ![Alt text](./screenshots/showall.jpeg)
 
 c. Login 
+
 ![Alt text](./screenshots/login.jpeg)
 
 d. forgot password
+
 ![Alt text](./screenshots/forgot.jpeg)
 ![Alt text](./screenshots/temp1.jpeg)
 
 e. Update username or password
+
 ![Alt text](./screenshots/update.jpeg)
 
 f. Delete user
+
 ![Alt text](./screenshots/delete.jpeg)
