@@ -3,7 +3,7 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const router = express.Router();
 
-const SECRET_KEY = 'your-secret-key';
+const SECRET_KEY = 'secret-key';
 
 // Dummy database of users
 let users = [
