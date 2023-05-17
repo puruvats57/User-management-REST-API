@@ -1,7 +1,7 @@
 # User-management-REST-API
 
 ## 1. Clone the repository:
-git clone (copy url)
+git clone copy url
 
 ## 2. Install dependencies:
 a. Navigate to the project directory<br/>
