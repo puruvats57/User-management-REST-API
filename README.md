@@ -1,2 +1,2 @@
 # User-management-REST-API
-![Alt text](./screenshots/create)
+![Alt text](./screenshots/create.jpeg)
