@@ -1,11 +1,10 @@
 # User-management-REST-API
 ## 1. Clone the repository:
-#### git clone url
+git clone <url>
 
 ## 2. Install dependencies:
-
-Navigate to the project directory.
-Run the following command to install the required packages:
+Navigate to the project directory<br/>
+Run the following command to install the required packages:<br/>
 npm install
 
 ![Alt text](./screenshots/create.jpeg)
