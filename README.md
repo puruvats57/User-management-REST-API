@@ -11,10 +11,7 @@ npm install
 ## 3. Run server
 node server.js
 
-## 4. Access the API:
-The REST API will be available at localhost:3000.<br/>
-
-## 5. API requests/testing using Postman 
+## 4. API requests/testing using Postman 
 
 a. Create User
 
