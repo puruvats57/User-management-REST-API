@@ -14,7 +14,7 @@ node server.js
 ## 4. Access the API:
 The REST API will be available at localhost:3000.<br/>
 
-## API requests using Postman 
+## 5. API requests/testing using Postman 
 
 a. Create User
 
