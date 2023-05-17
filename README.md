@@ -1,6 +1,6 @@
 # User-management-REST-API
 ## 1. Clone the repository:
-#### git clone <repository-url>
+#### git clone url
 
 ![Alt text](./screenshots/create.jpeg)
 ![Alt text](./screenshots/showall.jpeg)
