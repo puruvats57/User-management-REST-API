@@ -28,9 +28,12 @@ c. Login
 
 ![Alt text](./screenshots/login.jpeg)
 
-d. forgot password
+d. forgot password(by sending temporary password)
 
 ![Alt text](./screenshots/forgot.jpeg)
+
+sent temporary password
+
 ![Alt text](./screenshots/temp1.jpeg)
 
 e. Update username or password
