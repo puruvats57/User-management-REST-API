@@ -21,7 +21,7 @@ b. Show all users
 
 ![Alt text](./screenshots/showall.jpeg)
 
-c. Login 
+c. Login using username and password
 
 ![Alt text](./screenshots/login.jpeg)
 
