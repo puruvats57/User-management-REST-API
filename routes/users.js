@@ -95,7 +95,7 @@ router.get('/users', (req, res) => {
     res.json({ message: 'User deleted successfully' });
   });
   
-  // Forgot password
+  // Forgot password (here updating password to temporary password) 
 router.post('/forgot-password', (req, res) => {
     const { username } = req.body;
     // Find the user in the database
