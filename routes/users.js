@@ -28,7 +28,7 @@ router.post('/create', (req, res) => {
   });
 });
 
-// Authenticate user
+// Authenticate user using username and password
 router.post('/login', (req, res) => {
   const { username, password } = req.body;
   // Find the user in the database
